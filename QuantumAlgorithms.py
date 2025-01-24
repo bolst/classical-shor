@@ -1,3 +1,5 @@
 from qiskit import ClassicalRegister, QuantumCircuit, QuantumRegister
 
-print('hello world!')
+def find_order(a, N):
+    # return the order r of a
+    return 1
